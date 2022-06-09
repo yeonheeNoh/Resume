@@ -18,7 +18,7 @@
 >**nhynhe_**   
 6. github address   
 >[yhn][github]
-[github]:    
+[github]:https://github.com/yeonheeNoh/Resume    
 ----------
 ## **2022 1학기 수강과목**
 |번호|과목|학점|
