@@ -10,15 +10,16 @@
 >**010218**   
 3. 소속   
 >**한림대학교 나노융합스쿨**   
->>>*전공 - 반도체전공*
->>>*복수전공 - 빅데이터전공* 
+>>>*전공* - 반도체전공   
+>>>*복수전공* - 빅데이터전공 
 4. email   
 >**bella3484@naver.com**   
 5. instagram   
 >**nhynhe_**   
 6. github address   
->[yhn][github]
-[github]:https://github.com/yeonheeNoh/Resume    
+>**[yhn][github]**
+
+>[github]: https://github.com/yeonheeNoh/Resume    
 ----------
 ## **2022 1학기 수강과목**
 |번호|과목|학점|
